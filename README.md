@@ -1,6 +1,6 @@
 ### Hi :) 👋
 
-Front-End developer, love Open source project :) 
+Web Developer, love Open source project :) 
 
 ### Skils :)
 <p>
